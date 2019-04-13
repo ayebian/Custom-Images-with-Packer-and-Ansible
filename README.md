@@ -1,2 +1,2 @@
 # Custom-Images-with-Packer-and-Ansible
-Deploys a Css-clock with packe and Ansible with nginx as a reverse proxy
+https://medium.com/@ayebian16295/building-custom-machine-images-with-ansible-and-packer-on-gcp-ce69d8f0315b
